@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm currently a 4th-year Computer Engineering student, passionate about technology, coding, and innovation. My journey in the tech world has been filled with learning and exploring different facets of computing, from software development to artificial intelligence.
+I'm currently a 4th-year Computer Engineering student at Birzeit university, passionate about technology, coding, and innovation. My journey in the tech world has been filled with learning and exploring different facets of computing, from software development to artificial intelligence.
 
 - 🔭 I’m currently working on various academic and personal projects that challenge me and broaden my skill set.
 - 🌱 I’m currently learning more about cloud computing, machine learning, and advanced data structures to enhance my engineering skills.
@@ -12,9 +12,9 @@ I'm currently a 4th-year Computer Engineering student, passionate about technolo
 
 ## Skills
 
-- **Languages:** Python, Java, C++, JavaScript
-- **Tools & Technologies:** Git, Docker, Kubernetes, AWS, TensorFlow
-- **Interests:** Artificial Intelligence, Cloud Computing, Software Development
+- **Languages:** Python, Java, ShellScript, Verilog, HTML&CSS, MIPS&Intel Assembly, Matlab 
+- **Tools & Technologies:** Git
+- **Interests:** Artificial Intelligence
 
 ## Contact Me
 
