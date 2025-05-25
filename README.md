@@ -2,19 +2,18 @@
 
 ## About Me
 
-I'm currently a 5th-year Computer Engineering student at Birzeit university, passionate about technology, coding, and innovation. My journey in the tech world has been filled with learning and exploring different facets of computing, from software development to artificial intelligence.
+I'm currently a 5th-year Computer Engineering student at Birzeit university, passionate about technology, coding, and innovation.
 
 - 🔭 I’m currently working on various academic and personal projects that challenge me and broaden my skill set.
-- 🌱 I’m currently learning more about cloud computing, machine learning, and advanced data structures to enhance my engineering skills.
+- 🌱 I’m currently learning more about machine learning, and advanced data structures to enhance my engineering skills.
 - 👯 I’m looking to collaborate on open-source projects or innovative tech ventures.
-- 🤔 I’m looking for help with diving deeper into the world of DevOps and cloud infrastructure.
 - 💬 Ask me about anything related to computer engineering, and I'd be happy to share my knowledge and experiences.
 
 ## Skills
 
-- **Languages:** Python, Java, ShellScript, Verilog, HTML&CSS, MIPS&Intel Assembly, Matlab 
-- **Tools & Technologies:** Git
-- **Interests:** Artificial Intelligence
+- **Languages:** Python, Java, Verilog, SystemVerilog, MIPS&Intel Assembly, SQL.
+- **Tools & Technologies:** Git, Mongodb.
+- **Interests:** Artificial Intelligence, Data Engineering, Design Verification.
 
 ## Contact Me
 
@@ -25,5 +24,3 @@ I'm always open to discussing tech, project ideas, or anything under the sun tha
 Let's connect and build something amazing together.
 
 ---
-
-"Strive not to be a success, but rather to be of value." – Albert Einstein
