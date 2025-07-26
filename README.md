@@ -37,7 +37,6 @@ I’m a **Computer Engineering graduate** from Birzeit University (B.Sc., July 
 ## 📫 Connect with Me
 
 - 📧 [nafeabubaker@gmail.com](mailto:nafeabubaker@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nafe-abubaker-0182a5298/)  
-- 🌐 [GitHub](https://github.com/Abubaker-Nafe)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nafe-abubaker-0182a5298/)
 
 Let’s build something amazing together!
