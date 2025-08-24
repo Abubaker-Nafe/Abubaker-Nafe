@@ -17,7 +17,7 @@ I’m a **Computer Engineering graduate** from Birzeit University (B.Sc., July 
 - Processed 30 min drone footage at 30 FPS with **YOLOv8 + SORT** to detect vehicles and signal states in real time  
 - Calculated congestion metrics and recommended adaptive green‑light timings  
 - Logged JSON summaries to MongoDB and exposed results via **FastAPI** for a React dashboard  
-- Achieved **86%** violation‑detection accuracy and simulated a **25%** queue‑length reduction :contentReference[oaicite:8]{index=8}
+- Achieved **86%** violation‑detection accuracy and simulated a **25%** queue‑length reduction
 
 ### Palestine Store Hub  
 - Full‑Stack Developer on a 4‑member team using **React/TypeScript**, **.NET Core**, **MongoDB**, and **Azure**  
