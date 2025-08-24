@@ -6,7 +6,7 @@ I’m a **Computer Engineering graduate** from Birzeit University (B.Sc., July 
 
 - 🔭 **Most Recent Roles**  
   - Backend Engineering Trainee at ASAL Technologies (Sep 2024 – Feb 2025)  
-  - Data Engineering Trainee at ASAL Technologies (Feb 2025 – Jul 2025) :contentReference[oaicite:7]{index=7}  
+  - Data Engineering Trainee at ASAL Technologies (Feb 2025 – Jul 2025)
 - 🌱 Currently sharpening skills in **advanced ML**, **cloud computing**, and **data streaming**.  
 - 👯 Open to collaborating on **open‑source**, **AI/ML**, and **data‑driven** projects.  
 - 💬 Ask me about backend API design, ETL pipelines, or video‑analytics systems—I love sharing what I’ve learned.
